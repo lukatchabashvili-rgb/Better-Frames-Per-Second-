@@ -3,7 +3,7 @@ Source repository for Better Frames Per Second! modpack configs and development.
 
 # All Rights Reserved – Better Frames Per Second!
 
-© 2026 Lucas. All Rights Reserved.
+© 2026 Copyright. All Rights Reserved.
 
 Official releases of "Better Frames Per Second!" are only available on Modrinth:
 [Insert Modrinth link here]
